@@ -1,0 +1,4 @@
+Speedcoin
+=========
+
+Fast Transacting
